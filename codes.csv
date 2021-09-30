@@ -1,0 +1,267 @@
+concept,vocabulary,code,comments
+Systolic Blood Pressure,LOINC,75997-7,
+Systolic Blood Pressure,LOINC,76215-3,
+Systolic Blood Pressure,LOINC,76534-7,
+Systolic Blood Pressure,LOINC,8479-8,
+Systolic Blood Pressure,LOINC,8480-6,
+Systolic Blood Pressure,LOINC,8508-4,
+Systolic Blood Pressure,LOINC,8461-6,
+Systolic Blood Pressure,LOINC,8459-0,
+Systolic Blood Pressure,LOINC,8460-8,
+Diastolic blood pressure,LOINC,75995-1,
+Diastolic blood pressure,LOINC,76213-8,
+Diastolic blood pressure,LOINC,76535-4,
+Diastolic blood pressure,LOINC,8462-4,
+Diastolic blood pressure,LOINC,8496-2,
+Diastolic blood pressure,LOINC,8455-8,
+Diastolic blood pressure,LOINC,8453-3,
+Diastolic blood pressure,LOINC,8454-1,
+Heart rate,LOINC,8889-8,
+Heart rate,LOINC,8884-9,
+Heart rate,LOINC,8890-6,
+Heart rate,LOINC,8867-4,
+Heart rate,LOINC,8893-0,
+Heart rate,LOINC,67129-7,
+Heart rate,LOINC,69000-8,
+Respiratory rate,LOINC,19839-0,
+Respiratory rate,LOINC,19840-8,
+Respiratory rate,LOINC,33438-3,
+Respiratory rate,LOINC,40441-8,
+Respiratory rate,LOINC,9279-1,
+Respiratory rate,LOINC,9295-7,
+Respiratory rate,LOINC,9298-1,
+Respiratory rate,LOINC,9299-9,
+Respiratory rate,LOINC,9302-1,
+Respiratory rate,LOINC,9303-9,
+Respiratory rate,LOINC,76270-8,
+Respiratory rate,LOINC,61012-1,
+Respiratory rate,LOINC,76174-2,
+Body temperature,LOINC,8331-1,
+Body temperature,LOINC,8310-5,
+Body temperature,LOINC,8332-9,
+Body temperature,LOINC,8328-7,
+Body temperature,LOINC,8333-7,
+Body temperature,LOINC,8329-5,
+Body temperature,LOINC,75539-7,
+Partial pressure of carbon dioxide,LOINC,11557-6,
+Partial pressure of carbon dioxide,LOINC,2019-8,
+Partial pressure of carbon dioxide,LOINC,34705-4,
+Partial pressure of carbon dioxide,LOINC,32771-8,
+White blood cell count,LOINC,6690-2,
+White blood cell count,LOINC,26464-8,
+White blood cell count,LOINC,33256-9,
+Band cell count,LOINC,35332-6,
+Serum lactate,LOINC,30241-4,
+Serum lactate,LOINC,32133-1,
+Serum lactate,LOINC,19240-1,
+Serum lactate,LOINC,2519-7,
+Serum lactate,LOINC,2524-7,
+Serum lactate,LOINC,2518-9,
+Serum lactate,LOINC,14118-4,
+Serum lactate,LOINC,14045-9,
+Serum lactate,LOINC,32132-3,
+Serum lactate,LOINC,19239-3,
+Serum lactate,LOINC,30242-2,
+Serum lactate,LOINC,51829-0,
+Serum lactate,LOINC,32693-4,
+Serum lactate,LOINC,59032-3,
+Partial pressure of oxygen,LOINC,19254-2,
+Partial pressure of oxygen,LOINC,19255-9,
+Partial pressure of oxygen,LOINC,11556-8,
+Partial pressure of oxygen,LOINC,2703-7,
+Fraction of inspired oxygen,LOINC,3150-0,
+Glucose,LOINC,2339-0,
+Glucose,LOINC,14743-9,
+Glucose,LOINC,32016-8,
+Glucose,LOINC,2340-8,
+Glucose,LOINC,41651-1,
+Glucose,LOINC,41652-9,
+Glucose,LOINC,41653-7,
+Glucose,LOINC,74774-1,
+arterial pH,LOINC,28646-8,
+arterial pH,LOINC,33254-4,
+arterial pH,LOINC,49701-6,
+arterial pH,LOINC,49698-4,
+arterial pH,LOINC,11558-4,
+arterial pH,LOINC,2744-1,
+Serum bicarbonate,LOINC,1959-6,
+Serum bicarbonate,LOINC,1960-4,
+Serum bicarbonate,LOINC,19229-4,
+Serum bicarbonate,LOINC,14627-4,
+Serum bicarbonate,LOINC,22735-5,
+Serum bicarbonate,LOINC,1961-2,
+Serum bicarbonate,LOINC,1962-0,
+Serum bicarbonate,LOINC,1963-8,
+Serum bicarbonate,LOINC,28641-9,
+Serum bicarbonate,LOINC,41276-7,
+Serum bicarbonate,LOINC,33037-3,
+Serum creatinine,LOINC,21232-4,
+Serum creatinine,LOINC,2160-0,
+Serum creatinine,LOINC,38483-4,
+International normalized ratio,LOINC,6301-6,
+International normalized ratio,LOINC,34714-6,
+International normalized ratio,LOINC,38875-1,
+International normalized ratio,LOINC,46418-0,
+Mechanical ventilation,CPT,31500,
+Mechanical ventilation,CPT,31502,
+Mechanical ventilation,CPT,31730,
+Mechanical ventilation,CPT,94002,
+Mechanical ventilation,CPT,94003,
+Mechanical ventilation,CPT,94004,
+Mechanical ventilation,CPT,94005,
+Mechanical ventilation,CPT,94660,
+Mechanical ventilation,CPT,94662,
+Mechanical ventilation,CPT,99504,
+Mechanical ventilation,CPT,94656,
+Mechanical ventilation,CPT,94657,
+Mechanical ventilation,ICD10PCS,0BH13EZ,
+Mechanical ventilation,ICD10PCS,0BH17EZ,
+Mechanical ventilation,ICD10PCS,0BH18EZ,
+Mechanical ventilation,ICD10PCS,5A09357,
+Mechanical ventilation,ICD10PCS,5A09358,
+Mechanical ventilation,ICD10PCS,5A09359,
+Mechanical ventilation,ICD10PCS,5A0935B,
+Mechanical ventilation,ICD10PCS,5A09457,
+Mechanical ventilation,ICD10PCS,5A09458,
+Mechanical ventilation,ICD10PCS,5A09459,
+Mechanical ventilation,ICD10PCS,5A0945B,
+Mechanical ventilation,ICD10PCS,5A09557,
+Mechanical ventilation,ICD10PCS,5A09558,
+Mechanical ventilation,ICD10PCS,5A09559,
+Mechanical ventilation,ICD10PCS,5A0955B,
+Mechanical ventilation,ICD10PCS,5A1935Z,
+Mechanical ventilation,ICD10PCS,5A1945Z,
+Mechanical ventilation,ICD10PCS,5A1955Z,
+Red blood cell transfusion,CPT,36430,
+Red blood cell transfusion,ICD10PCS,30230H0,
+Red blood cell transfusion,ICD10PCS,30230H1,
+Red blood cell transfusion,ICD10PCS,30233H0,
+Red blood cell transfusion,ICD10PCS,30233H1,
+Red blood cell transfusion,ICD10PCS,30240H0,
+Red blood cell transfusion,ICD10PCS,30240H1,
+Red blood cell transfusion,ICD10PCS,30243H0,
+Red blood cell transfusion,ICD10PCS,30243H1,
+Red blood cell transfusion,ICD10PCS,30250H0,
+Red blood cell transfusion,ICD10PCS,30250H1,
+Red blood cell transfusion,ICD10PCS,30253H0,
+Red blood cell transfusion,ICD10PCS,30253H1,
+Red blood cell transfusion,ICD10PCS,30260H0,
+Red blood cell transfusion,ICD10PCS,30260H1,
+Red blood cell transfusion,ICD10PCS,30263H0,
+Red blood cell transfusion,ICD10PCS,30263H1,
+Vasoactive agents,GPI,3800002010,dopamine
+Vasoactive agents,GPI,9990301235,dopamine
+Vasoactive agents,GPI,2145006801,epinephrine
+Vasoactive agents,GPI,4420202010,epinephrine
+Vasoactive agents,GPI,4420202020,epinephrine
+Vasoactive agents,GPI,9630105500,epinephrine
+Vasoactive agents,GPI,9990300942,epinephrine
+Vasoactive agents,GPI,9990300944,epinephrine
+Vasoactive agents,GPI,9990300946,epinephrine
+Vasoactive agents,GPI,9990300965,epinephrine
+Vasoactive agents,GPI,9990302001,epinephrine
+Vasoactive agents,GPI,9990303001,epinephrine
+Vasoactive agents,GPI,9990304732,epinephrine
+Vasoactive agents,GPI,9990305511,epinephrine
+Vasoactive agents,GPI,9990306083,epinephrine
+Vasoactive agents,GPI,9990306510,epinephrine
+Vasoactive agents,GPI,9990306629,epinephrine
+Vasoactive agents,GPI,9990307031,epinephrine
+Vasoactive agents,GPI,9990307689,epinephrine
+Vasoactive agents,GPI,9990307711,epinephrine
+Vasoactive agents,GPI,9990308123,epinephrine
+Vasoactive agents,GPI,9990308617,epinephrine
+Vasoactive agents,GPI,2145007256,norepinephrine
+Vasoactive agents,GPI,3800009010,norepinephrine
+Vasoactive agents,GPI,9990306466,norepinephrine
+Vasoactive agents,GPI,9990306467,norepinephrine
+Vasoactive agents,GPI,9990307034,norepinephrine
+Vasoactive agents,GPI,2145006430,phenylephrine
+Vasoactive agents,GPI,4210104010,phenylephrine
+Vasoactive agents,GPI,9990306017,phenylephrine
+Vasoactive agents,GPI,9990306059,phenylephrine
+Vasoactive agents,GPI,9990306825,phenylephrine
+Vasoactive agents,GPI,9990308772,phenylephrine
+Vasoactive agents,GPI,3020103000,vasopressin
+Vasoactive agents,GPI,9990301722,vasopressin
+Vasoactive agents,GPI,9990307642,vasopressin
+Vasoactive agents,GPI,9990307643,vasopressin
+Inotropic agents,GPI,3800001010,dobutamine
+Inotropic agents,GPI,9990303101,dobutamine
+Fibrinolytic agents,GPI,8560101000,alteplase
+Fibrinolytic agents,GPI,8560107000,reteplase
+Fibrinolytic agents,GPI,8560107500,tenecteplase
+Vasodilators,GPI,9990303511,enalaprilat
+Vasodilators,GPI,3640203010,fenoldopam
+Vasodilators,GPI,3400001810,nicardipine
+Vasodilators,GPI,9990306174,nicardipine
+Vasodilators,GPI,9990306175,nicardipine
+Vasodilators,GPI,9990307752,nicardipine
+Vasodilators,GPI,9990309029,nicardipine
+Vasodilators,GPI,3210003000,nitroglycerin
+Vasodilators,GPI,9990302782,nitroglycerin
+Vasodilators,GPI,2145006210,nitroprusside
+Vasodilators,GPI,3640004010,nitroprusside
+Adrenergic inhibitors,GPI,3320002510,esmolol
+Adrenergic inhibitors,GPI,9990304716,esmolol
+Adrenergic inhibitors,GPI,2145006444,esmolol
+Adrenergic inhibitors,GPI,3630002010,phentolamine
+Adrenergic inhibitors,GPI,9990309272,phentolamine
+Adrenergic inhibitors,GPI,2145006016,phentolamine
+Diuretic,GPI,3720001000,bumetanide
+Diuretic,GPI,9990307372,furosemide
+Diuretic,GPI,3720003000,furosemide
+Diuretic,GPI,2145006121,furosemide
+Diuretic,GPI,3720008000,torsemide
+Insulin,GPI,2145006834,"insulin, regular"
+Insulin,GPI,9990300528,"insulin, regular"
+Insulin,GPI,9990300529,"insulin, regular"
+Insulin,GPI,9990300530,"insulin, regular"
+Insulin,GPI,9990300531,"insulin, regular"
+Insulin,GPI,9990300532,"insulin, regular"
+Insulin,GPI,9990300533,"insulin, regular"
+Insulin,GPI,9990302596,"insulin, regular"
+Insulin,GPI,9990308879,aspart
+Insulin,GPI,2145007139,lispro
+Insulin,GPI,9990303410,lispro
+Insulin,GPI,9990304005,lispro
+Insulin,GPI,9990305098,glulisine
+Insulin,GPI,9990300525,nph
+Insulin,GPI,9990300526,nph
+Insulin,GPI,9990300540,nph
+Insulin,GPI,9990300541,nph
+Insulin,GPI,9990300542,nph
+Insulin,GPI,9990300543,nph
+Insulin,GPI,9990302856,nph
+Insulin,GPI,9990305235,detemir
+Insulin,GPI,2145006138,glargine
+Insulin,GPI,9990304384,glargine
+Potassium chloride,GPI,2145006479,potassium chloride
+Potassium chloride,GPI,7970003000,potassium chloride
+Potassium chloride,GPI,9990303601,potassium chloride
+Potassium chloride,GPI,9990303602,potassium chloride
+Potassium chloride,GPI,9990303603,potassium chloride
+Potassium chloride,GPI,9990303604,potassium chloride
+Potassium chloride,GPI,9990303605,potassium chloride
+Potassium chloride,GPI,9990303606,potassium chloride
+Potassium chloride,GPI,9990303607,potassium chloride
+Potassium chloride,GPI,9990303609,potassium chloride
+Potassium chloride,GPI,9990304739,potassium chloride
+Potassium chloride,GPI,9990307027,potassium chloride
+Neuromuscular blocking agents,GPI,7420001010,atracurium
+Neuromuscular blocking agents,GPI,7420001310,atracurium
+Neuromuscular blocking agents,GPI,7420001310,cisatracurium
+Neuromuscular blocking agents,GPI,7420004710,rocuronium
+Neuromuscular blocking agents,GPI,2145006239,succinylcholine
+Neuromuscular blocking agents,GPI,7410001010,succinylcholine
+Neuromuscular blocking agents,GPI,9990306061,succinylcholine
+Neuromuscular blocking agents,GPI,9990309244,succinylcholine
+Neuromuscular blocking agents,GPI,7420006010,vecuronium
+Neuromuscular blocking agents,GPI,9990306341,vecuronium
+Hemodialysis,CPT,90935,
+Hemodialysis,CPT,90937,
+Hemodialysis,CPT,90940,
+Hemodialysis,CPT,90945,
+Hemodialysis,CPT,90947,
+Hemodialysis,CPT,S9335,
+Hemodialysis,ICD10PCS,5A1D70Z,
